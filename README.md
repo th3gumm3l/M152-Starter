@@ -1,12 +1,15 @@
 # M152 - Starter Projekt
 
-Um dieses Repository zu verwenden müssen folgende Befehle nacheinander ausgeführt werden:
+## Vorbereitung
 
+Erstellen Sie einen Ordner und öffnen Sie diesen im VSCode.
+
+Danach führen Sie alle hier aufgeführten Befehle Zeile für Zeile im Terminal aus.
 
 ## Projekt klonen und installieren
 
 ```ssh
-git clone https://github.com/Andi-Moser/M152-Starter.git
+git clone https://github.com/Andi-Moser/M152-Starter.git .
 rm -rf .git # Oder .git Ordner via File Explorer löschen
 npm install
 ```
@@ -32,3 +35,5 @@ npm run dev
 ## Vetur
 
 https://marketplace.visualstudio.com/items?itemName=octref.vetur
+
+# Dokumentationslinks
