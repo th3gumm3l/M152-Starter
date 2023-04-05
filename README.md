@@ -37,3 +37,9 @@ npm run dev
 https://marketplace.visualstudio.com/items?itemName=octref.vetur
 
 # Dokumentationslinks
+
+## Vue Tutorial
+
+https://vuejs.org/tutorial/#step-1
+
+| Achtung: Bei der `API Preference` müssen die Optionen `Composition` und `SFC` ausgewählt werden!
