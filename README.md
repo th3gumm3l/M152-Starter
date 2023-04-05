@@ -6,8 +6,8 @@ Um dieses Repository zu verwenden müssen folgende Befehle nacheinander ausgefü
 ## Projekt klonen und installieren
 
 ```ssh
-git clone ...
-rm -rf .git
+git clone https://github.com/Andi-Moser/M152-Starter.git
+rm -rf .git # Oder .git Ordner via File Explorer löschen
 npm install
 ```
 
@@ -26,3 +26,9 @@ git push
 ```ssh
 npm run dev
 ```
+
+# Empfohlene VS Code Plugins
+
+## Vetur
+
+https://marketplace.visualstudio.com/items?itemName=octref.vetur
