@@ -2,6 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import aufgabe_12_2 from '../views/Pages/aufgabe_12_2.vue'
 import ichweissnidwasdasisch from '../views/Pages/ichweissnidwasdasisch.vue'
+import dialogForm from '../views/Pages/dialogForm.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -20,6 +21,11 @@ const router = createRouter({
       path: "/ichweissnidwasdasisch",
       name: "ichweissnidwasdasisch",
       component: ichweissnidwasdasisch,
+    },
+    {
+      path: "/dialogForm",
+      name: "dialogForm",
+      component: dialogForm,
     }
   ]
 })

@@ -21,4 +21,3 @@
         </svg>
     </main>
 </template>
-
